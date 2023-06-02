@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <style>
+            body{
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: 50% 100%;
+                background-position-x: left;
+            }
+        </style>
+    </head>
+     <body background="im1.jpg">
+     <img src="im.jpg" width=750 height="750" align=right>
+    </body>
+</html>
