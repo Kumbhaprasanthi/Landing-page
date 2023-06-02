@@ -1,0 +1,14 @@
+<html>
+  <head>
+      <style>
+          body{
+               background-repeat: no-repeat;
+               background-attachment: fixed;
+               background-size: 100% 100%;
+               background-position-x: left;
+          }
+        </style>
+  </head>
+   <body background="mm.jpg">
+   </body>
+</html>
