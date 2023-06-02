@@ -1,0 +1,20 @@
+<html>
+   <head>
+      <title>
+          Ice Cream
+      </title>
+      <style>
+        img.milkshake{
+            height: 60%;
+        }
+     </style>
+  </head>
+  <body>
+    <a href="file:///C:/html/milkshake.htm" title="go to milkshake menu"> 
+       <img class="milkshake" src="i2.jpg" alt="@" style="width:100%">
+    </a>
+       <a href="file:///C:/html/icemenu.htm" title="go to ice cream menu"> 
+         <img src="i1.jpg" alt="@" style=width:100%></a>
+       </a>
+   </body>
+</html>
